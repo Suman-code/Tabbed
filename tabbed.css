@@ -1,0 +1,25 @@
+body{
+	width: 1000px;
+	height: auto;
+	text-align: center;
+}
+
+li{
+	list-style: none;
+}
+
+li.fields{
+	margin: 0;
+	padding: 1em 0;
+}
+
+
+li.title{ cursor: pointer;
+	font-size: bold;
+	font-size: 1.5rem;
+	line-height: 2em;
+	background: #e3e3e3;
+	border-bottom : 1px solid #050505;
+	border-top: 1px solid white;
+}
+.hide{display: none;}
